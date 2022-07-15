@@ -199,3 +199,5 @@
 }
 
 -keep class com.github.catvod.crawler.*{*;}
+# 磁力
+-keep class com.xunlei.downloadlib.** {*;}
